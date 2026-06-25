@@ -227,7 +227,7 @@ checkpoint/
 
 ## ⭐ Star this repository if you found it useful!
 
-### Built by Mohammad Amanuddin
+### Built by Mohd Amaanuddin
 
 Aspiring Data Engineer | Kafka | PySpark | AWS | Data Lakes
 
